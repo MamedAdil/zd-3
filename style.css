@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+}
+
+.slider {
+    position: relative;
+    width: 300px;
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+    margin: 50px auto;
+}
+
+.thumb {
+    position: absolute;
+    top: -5px;
+    width: 20px;
+    height: 20px;
+    background-color: #4CAF50;
+    border-radius: 50%;
+    cursor: pointer;
+}
